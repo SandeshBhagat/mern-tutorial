@@ -79,7 +79,7 @@ const generateToken = (id) => {
 	});
 };
 
-module.exports = {
+module.exports = { 
 	registerUser,
 	loginUser,
 	getMe,
